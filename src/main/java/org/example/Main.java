@@ -18,6 +18,6 @@ public class Main {
         System.out.println(accout2.getId());
         System.out.println(accout2.getName());
         System.out.println(accout2.getLuong());
-
+        System.out.println("ok cô");
     }
 }
